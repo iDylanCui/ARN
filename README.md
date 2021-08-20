@@ -2,7 +2,7 @@
 
 Source codes and datasets for the paper "Incorporating Anticipation Embedding into Reinforcement Learning Framework for Multi-hop Knowledge Graph Question Answering".
 
-![](/Volumes/Hai/code_full/RL_KEQA_release/model_overview.png)
+![](./model_overview.png)
 
 ## Train
 
