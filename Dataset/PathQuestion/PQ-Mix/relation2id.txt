@@ -1,0 +1,16 @@
+DUMMY_RELATION	0
+START_RELATION	1
+NO_OP_RELATION	2
+institution	3
+children	4
+ethnicity	5
+religion	6
+gender	7
+place_of_death	8
+nationality	9
+place_of_birth	10
+location	11
+profession	12
+spouse	13
+parents	14
+cause_of_death	15

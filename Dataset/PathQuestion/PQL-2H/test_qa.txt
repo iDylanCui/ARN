@@ -1,0 +1,160 @@
+what is the <e> 's recording 's recording	Viola	Viola
+what is the <e> 's track list 's release	Elliott_Yamin	Free
+what is the <e> 's artist 's releases	Amsterdam	Another_Day
+what is the <e> 's track 's artist	The_B.B._&_Q._Band	Louise_Redknapp
+what is the <e> 's recording 's recording	Johnny_Depp	Johnny_Depp
+what is the artist of <e> 's genre	The_Birth_of_Venus	Joni_Mitchell
+what is the <e> 's release 's notable types	Aurora	Film_character
+what is the release of <e> 's recording	Another_Day	Krush
+what is the <e> 's profession 's notable types	Tommy_Brown	Creative_Work
+what is the <e> 's platform 's games	Knights_of_the_Sky	Flames_of_Freedom|Midwinter|The_Humans|Maniac_Mansion|Civilization|Zool|Llamatron|Pit-Fighter|B.A.T.|Prince_of_Persia
+what is the album of <e> 's album	Dogma	Dogma
+what is the costume design for film of <e> 's founders	Givenchy	Crack_in_the_Mirror|Charade|Sabrina
+what is the <e> 's artist 's album	Ritmo_de_la_Noche	Elegant_Gypsy|This_Is_Jazz_31|He_&_Carmen|The_Rite_of_Strings|Anthology|All_Your_Life|World_Sinfonia|The_Guitar_Hero|The_Infinite_Desire|Acoustic_Anthology|Tirami_Su|Ritmo_de_la_Noche|The_Collection|Electric_Rendezvous|Casino|Winter_Nights|Vocal_Rendezvous|Revisited|Sunday_in_Boston|Kiss_My_Axe
+what is the <e> 's containedby 's people born here	Brahmakulam	Suma_Kanakala|Roysten_Abel|R._Sugathan|K._M._Cherian|Rishi|T._M._Jacob|N.P._Prakash|Sangeeth_Sivan|Shyamaprasad|Tapovan_Maharaj|Bhagyalakshmi|Aparna_Nair|Kannam_Kulam_Abdulla|M._N._Vijayan|A._Ayyappan|Rajan_Pillai|Wahid_Sali|Prakash_Bobby|K_Hari_Kumar|Sunny_Joseph|C._N._Balakrishnan|Usharani_Nair|Preethi_Nair|Shashi_Warrier|Venu_Nair|Nimisha_Suresh|Eknath_Easwaran|Sohan_Roy|V._M._Sudheeran|Jeet_Thayil|C.K._Vineeth|Suma_Josson|Joseph_Mundassery|Sathaar|K._V._Simon|Sudheesh|Suresh_Balaje|Sibi_K._Thomas|Helen_Mary|Ali_Akbar|Rajeev_Sreenivasa|Theresa_Setlur|Mor_Severios|Kalpana|Lalu_KV|Anusree|N._R._Pillai|Vellapally_Natesan|Rekha_Mallick|V._K._N.|Tom_George|P._Vasu
+what is the releases of <e> 's track	Moonlight_Serenades	The_No._1_Hits_1963
+what is the release of <e> 's recording	Believe	The_Breakout_Trilogy|Greatest_Hits
+what is the <e> 's nationality 's teams	Philippe_de_Broca	Strasbourg_IG|A1_Team_France
+what is the place of <e> 's place	Nazareth	Nazareth
+what is the song of <e> 's song	China	China
+what is the <e> 's tracks 's release	Believe	The_Breakout_Trilogy|Greatest_Hits
+what is the film casting director of <e> 's titles	Cult_Comedies	Sally_Dennison
+what is the <e> 's releases 's releases	Another_Day	Another_Day
+what is the <e> 's artist 's album	Habanera	Elegant_Gypsy|This_Is_Jazz_31|He_&_Carmen|The_Rite_of_Strings|Anthology|All_Your_Life|World_Sinfonia|The_Guitar_Hero|The_Infinite_Desire|Acoustic_Anthology|Tirami_Su|Ritmo_de_la_Noche|The_Collection|Electric_Rendezvous|Casino|Winter_Nights|Vocal_Rendezvous|Revisited|Sunday_in_Boston|Kiss_My_Axe
+what is the <e> 's nationality 's recording	Rajan_Prakash	India
+what is the tracks of <e> 's recording	Believe	Believe
+what is the <e> 's recordings 's notable types	Free	Consumer_product
+what is the people born here of <e> 's containedby	Brahmakulam	Suma_Kanakala|Roysten_Abel|R._Sugathan|K._M._Cherian|Rishi|T._M._Jacob|N.P._Prakash|Sangeeth_Sivan|Shyamaprasad|Tapovan_Maharaj|Bhagyalakshmi|Aparna_Nair|Kannam_Kulam_Abdulla|M._N._Vijayan|A._Ayyappan|Rajan_Pillai|Wahid_Sali|Prakash_Bobby|K_Hari_Kumar|Sunny_Joseph|C._N._Balakrishnan|Usharani_Nair|Preethi_Nair|Shashi_Warrier|Venu_Nair|Nimisha_Suresh|Eknath_Easwaran|Sohan_Roy|V._M._Sudheeran|Jeet_Thayil|C.K._Vineeth|Suma_Josson|Joseph_Mundassery|Sathaar|K._V._Simon|Sudheesh|Suresh_Balaje|Sibi_K._Thomas|Helen_Mary|Ali_Akbar|Rajeev_Sreenivasa|Theresa_Setlur|Mor_Severios|Kalpana|Lalu_KV|Anusree|N._R._Pillai|Vellapally_Natesan|Rekha_Mallick|V._K._N.|Tom_George|P._Vasu
+what is the <e> 's track list 's recordings	Elliott_Yamin	Free
+what is the tracks of <e> 's nationality	Luis_Ernesto_Pérez	Mexico
+what is the <e> 's artist 's album	Ritmo_de_la_Noche	Elegant_Gypsy|This_Is_Jazz_31|He_&_Carmen|The_Rite_of_Strings|Anthology|All_Your_Life|World_Sinfonia|The_Guitar_Hero|The_Infinite_Desire|Acoustic_Anthology|Tirami_Su|Ritmo_de_la_Noche|The_Collection|Electric_Rendezvous|Casino|Winter_Nights|Vocal_Rendezvous|Revisited|Sunday_in_Boston|Kiss_My_Axe
+what is the release of <e> 's track	Alistair_Wells	Deodato_2
+what is the people born here of <e> 's containedby	Brahmakulam	Suma_Kanakala|Roysten_Abel|R._Sugathan|K._M._Cherian|Rishi|T._M._Jacob|N.P._Prakash|Sangeeth_Sivan|Shyamaprasad|Tapovan_Maharaj|Bhagyalakshmi|Aparna_Nair|Kannam_Kulam_Abdulla|M._N._Vijayan|A._Ayyappan|Rajan_Pillai|Wahid_Sali|Prakash_Bobby|K_Hari_Kumar|Sunny_Joseph|C._N._Balakrishnan|Usharani_Nair|Preethi_Nair|Shashi_Warrier|Venu_Nair|Nimisha_Suresh|Eknath_Easwaran|Sohan_Roy|V._M._Sudheeran|Jeet_Thayil|C.K._Vineeth|Suma_Josson|Joseph_Mundassery|Sathaar|K._V._Simon|Sudheesh|Suresh_Balaje|Sibi_K._Thomas|Helen_Mary|Ali_Akbar|Rajeev_Sreenivasa|Theresa_Setlur|Mor_Severios|Kalpana|Lalu_KV|Anusree|N._R._Pillai|Vellapally_Natesan|Rekha_Mallick|V._K._N.|Tom_George|P._Vasu
+what is the people born here of <e> 's containedby	Brahmakulam	Suma_Kanakala|Roysten_Abel|R._Sugathan|K._M._Cherian|Rishi|T._M._Jacob|N.P._Prakash|Sangeeth_Sivan|Shyamaprasad|Tapovan_Maharaj|Bhagyalakshmi|Aparna_Nair|Kannam_Kulam_Abdulla|M._N._Vijayan|A._Ayyappan|Rajan_Pillai|Wahid_Sali|Prakash_Bobby|K_Hari_Kumar|Sunny_Joseph|C._N._Balakrishnan|Usharani_Nair|Preethi_Nair|Shashi_Warrier|Venu_Nair|Nimisha_Suresh|Eknath_Easwaran|Sohan_Roy|V._M._Sudheeran|Jeet_Thayil|C.K._Vineeth|Suma_Josson|Joseph_Mundassery|Sathaar|K._V._Simon|Sudheesh|Suresh_Balaje|Sibi_K._Thomas|Helen_Mary|Ali_Akbar|Rajeev_Sreenivasa|Theresa_Setlur|Mor_Severios|Kalpana|Lalu_KV|Anusree|N._R._Pillai|Vellapally_Natesan|Rekha_Mallick|V._K._N.|Tom_George|P._Vasu
+what is the tracks of <e> 's recordings	Hard_Times	Hard_Times
+what is the canonical version of <e> 's canonical version	Babylon	Babylon
+what is the notable types of <e> 's recording	David	Film_character|Fictional_Character
+what is the <e> 's recording 's notable types	Blue	Musical_Album
+what is the canonical version of <e> 's track list	Fronte_dell'essere	Buenos_Aires
+what is the tracks of <e> 's how to get here	Gare_d'Austerlitz	Paris
+what is the <e> 's song 's song	Believe	Believe
+what is the <e> 's versions 's versions	The_Game	The_Game
+what is the <e> 's nationality 's contains	Mátyás_Rákosi	Bohemia|Adamov|Miskolc|Prague|Kingdom_of_Hungary|Kraków
+what is the recording of <e> 's recording	Colorado	Colorado
+what is the <e> 's release 's artist	Free	Sarah_Brightman
+what is the <e> 's profession 's notable types	Marvin_Yancy	Creative_Work
+what is the recording of <e> 's track list	21	Always
+what is the <e> 's place of birth 's appears in topic gallery	Ettore_Marchiafava	Rome
+what is the teams of <e> 's nationality	Michel_Vautrot	Strasbourg_IG|A1_Team_France
+what is the tracks of <e> 's tracks	Kim	Kim
+what is the <e> 's country 's recording	Thaikkupin_Tharam	India
+what is the <e> 's nationality 's teams	Carlos_Thays	Strasbourg_IG|A1_Team_France
+what is the teams of <e> 's country	Kinatay	Strasbourg_IG|A1_Team_France
+what is the tracks of <e> 's tracks	Toronto	Toronto
+what is the <e> 's artist 's album	Habanera	Elegant_Gypsy|This_Is_Jazz_31|He_&_Carmen|The_Rite_of_Strings|Anthology|All_Your_Life|World_Sinfonia|The_Guitar_Hero|The_Infinite_Desire|Acoustic_Anthology|Tirami_Su|Ritmo_de_la_Noche|The_Collection|Electric_Rendezvous|Casino|Winter_Nights|Vocal_Rendezvous|Revisited|Sunday_in_Boston|Kiss_My_Axe
+what is the <e> 's releases 's releases	Blaze_of_Glory	Blaze_of_Glory
+what is the <e> 's recording 's recording	Murder	Murder
+what is the recording of <e> 's country	Hollywood	India
+what is the <e> 's how to get here 's tracks	Gare_d'Austerlitz	Paris
+what is the tracks of <e> 's netflix genres	Jefe_de_la_Frontera	Mexico
+what is the <e> 's track list 's recordings	Close_as_You_Get	Hard_Times_(live)|Hard_Times
+what is the teams of <e> 's nationality	Charles_d'Abancour	Strasbourg_IG|A1_Team_France
+what is the <e> 's track list 's tracks	Close_as_You_Get	Hard_Times
+what is the <e> 's place of birth 's appears in topic gallery	Gianfranco_Parolini	Rome
+what is the teams of <e> 's subjects	Grey_Eminence	Strasbourg_IG|A1_Team_France
+what is the recording of <e> 's recording	Busted	Busted
+what is the recording of <e> 's recording	New_Moon	New_Moon
+what is the <e> 's recording 's recording	Painter	Painter
+what is the <e> 's containedby 's people born here	Brahmakulam	Suma_Kanakala|Roysten_Abel|R._Sugathan|K._M._Cherian|Rishi|T._M._Jacob|N.P._Prakash|Sangeeth_Sivan|Shyamaprasad|Tapovan_Maharaj|Bhagyalakshmi|Aparna_Nair|Kannam_Kulam_Abdulla|M._N._Vijayan|A._Ayyappan|Rajan_Pillai|Wahid_Sali|Prakash_Bobby|K_Hari_Kumar|Sunny_Joseph|C._N._Balakrishnan|Usharani_Nair|Preethi_Nair|Shashi_Warrier|Venu_Nair|Nimisha_Suresh|Eknath_Easwaran|Sohan_Roy|V._M._Sudheeran|Jeet_Thayil|C.K._Vineeth|Suma_Josson|Joseph_Mundassery|Sathaar|K._V._Simon|Sudheesh|Suresh_Balaje|Sibi_K._Thomas|Helen_Mary|Ali_Akbar|Rajeev_Sreenivasa|Theresa_Setlur|Mor_Severios|Kalpana|Lalu_KV|Anusree|N._R._Pillai|Vellapally_Natesan|Rekha_Mallick|V._K._N.|Tom_George|P._Vasu
+what is the tracks of <e> 's track	Tiefschwarz	Blow
+what is the <e> 's track 's label	Gloria	Specialty_Records|King_Records|Atlantic_Records|Chess_Records|Ace_Records
+what is the recording of <e> 's tracks	Believe	Believe
+what is the next episode of <e> 's containedby	Grays	Tasmania
+what is the versions of <e> 's track list	Über_Cobra	Mercy
+what is the <e> 's canonical version 's canonical version	Rome	Rome
+what is the tracks of <e> 's region	Transmission_in_Time	Earth
+what is the <e> 's place of birth 's art form	Sitara_Achakzai	Photography
+what is the <e> 's nationality 's tracks	Humberto_Moreira	Mexico
+what is the <e> 's track 's release	Alistair_Wells	Deodato_2
+what is the recording of <e> 's recording	Twilight	Twilight
+what is the country of <e> 's album	Hollywood	India
+what is the games of <e> 's platform	Knights_of_the_Sky	Flames_of_Freedom|Midwinter|The_Humans|Maniac_Mansion|Civilization|Zool|Llamatron|Pit-Fighter|B.A.T.|Prince_of_Persia
+what is the release of <e> 's releases	On_the_Run	Fever
+what is the <e> 's nationality 's teams	Roger_Carel	Strasbourg_IG|A1_Team_France
+what is the tracks of <e> 's canonical version	Lost	Lost
+what is the instruments played of <e> 's lyricist	Isolation	Guitar|Keyboard
+what is the <e> 's nationality 's teams	Carlos_Thays	Strasbourg_IG|A1_Team_France
+what is the <e> 's canonical version 's tracks	Lost	Lost
+what is the notable types of <e> 's track list	Wave:CD	Film_character
+what is the containedby of <e> 's place of birth	Louie_Fant	Iowa
+what is the <e> 's canonical version 's canonical version	Babylon	Babylon
+what is the album of <e> 's artist	Habanera	Elegant_Gypsy|This_Is_Jazz_31|He_&_Carmen|The_Rite_of_Strings|Anthology|All_Your_Life|World_Sinfonia|The_Guitar_Hero|The_Infinite_Desire|Acoustic_Anthology|Tirami_Su|Ritmo_de_la_Noche|The_Collection|Electric_Rendezvous|Casino|Winter_Nights|Vocal_Rendezvous|Revisited|Sunday_in_Boston|Kiss_My_Axe
+what is the label of <e> 's track	Gloria	Specialty_Records|King_Records|Atlantic_Records|Chess_Records|Ace_Records
+what is the track performances of <e> 's pertains to	Estonian_county	Guitar|Vocals
+what is the notable types of <e> 's profession	Tommy_Brown	Creative_Work
+what is the <e> 's country 's teams	I'm_with_Lucy	Strasbourg_IG|A1_Team_France
+what is the artist of <e> 's genre	Marker	Joni_Mitchell
+what is the recording of <e> 's genre	The_Mask	Fantasy
+what is the <e> 's track list 's country	More_Than_Ever	India
+what is the teams of <e> 's place of birth	Bruno_Girard	Strasbourg_IG|A1_Team_France
+what is the release of <e> 's recordings	Free	Free
+what is the recording of <e> 's recording	Cycling	Cycling
+what is the profession of <e> 's people born here	Ljubljana	Basketball_player|Writer
+what is the recording of <e> 's releases produced	Polow_da_Don	Monster
+what is the song of <e> 's song	Baby_Love	Baby_Love
+what is the <e> 's athletes 's tracks	Triathlon	Mexico
+what is the recordings of <e> 's recordings	Free	Free
+what is the <e> 's containedby 's next episode	Columbia	Tasmania
+what is the <e> 's pertains to 's track performances	Estonian_county	Guitar|Vocals
+what is the recording of <e> 's netflix genres	Yahaan	India
+what is the <e> 's tracks 's tracks	Marco_Polo	Marco_Polo
+what is the <e> 's genre 's recording	The_Rats_of_Hamelin	Fantasy
+what is the label of <e> 's track	Gloria	Specialty_Records|King_Records|Atlantic_Records|Chess_Records|Ace_Records
+what is the recording of <e> 's netflix genres	Kisaan	India
+what is the format of <e> 's release	Up_All_Night	Compact_disc
+what is the <e> 's artist 's album	Habanera	Elegant_Gypsy|This_Is_Jazz_31|He_&_Carmen|The_Rite_of_Strings|Anthology|All_Your_Life|World_Sinfonia|The_Guitar_Hero|The_Infinite_Desire|Acoustic_Anthology|Tirami_Su|Ritmo_de_la_Noche|The_Collection|Electric_Rendezvous|Casino|Winter_Nights|Vocal_Rendezvous|Revisited|Sunday_in_Boston|Kiss_My_Axe
+what is the events of <e> 's nationality	Hazem_Emam	Caesar's_Civil_War
+what is the <e> 's educational institution 's educational institution	Newcastle_College	Newcastle_College
+what is the <e> 's track list 's song	Transistor_Rhythm	Believe
+what is the teams of <e> 's country	Them	Strasbourg_IG|A1_Team_France
+what is the <e> 's notable types 's notable types	Felix_Riebl	Creative_Work
+what is the <e> 's place of birth 's containedby	Louie_Fant	Iowa
+what is the next episode of <e> 's containedby	Columbia	Tasmania
+what is the album of <e> 's artist	Ritmo_de_la_Noche	Elegant_Gypsy|This_Is_Jazz_31|He_&_Carmen|The_Rite_of_Strings|Anthology|All_Your_Life|World_Sinfonia|The_Guitar_Hero|The_Infinite_Desire|Acoustic_Anthology|Tirami_Su|Ritmo_de_la_Noche|The_Collection|Electric_Rendezvous|Casino|Winter_Nights|Vocal_Rendezvous|Revisited|Sunday_in_Boston|Kiss_My_Axe
+what is the album of <e> 's artist	Habanera	Elegant_Gypsy|This_Is_Jazz_31|He_&_Carmen|The_Rite_of_Strings|Anthology|All_Your_Life|World_Sinfonia|The_Guitar_Hero|The_Infinite_Desire|Acoustic_Anthology|Tirami_Su|Ritmo_de_la_Noche|The_Collection|Electric_Rendezvous|Casino|Winter_Nights|Vocal_Rendezvous|Revisited|Sunday_in_Boston|Kiss_My_Axe
+what is the <e> 's active moieties 's active moieties	Miglustat	Miglustat
+what is the releases of <e> 's art forms	Norbert_Rzepka	Epilogue
+what is the <e> 's tracks 's tracks	Peru	Peru
+what is the <e> 's track 's notable types	Paul_Stanley	Musical_Album
+what is the releases of <e> 's releases	Columbus	Columbus
+what is the teams of <e> 's nationality	Raymond_Radiguet	Strasbourg_IG|A1_Team_France
+what is the song of <e> 's song	Amsterdam	Amsterdam
+what is the works of <e> 's organism type	Abercrombie	Black_Beauty|Horse_Anatomy|Sidesaddle|Reining_in
+what is the recording of <e> 's nationality	Simranjit_Singh_Mann	India
+what is the album of <e> 's artist	Habanera	Elegant_Gypsy|This_Is_Jazz_31|He_&_Carmen|The_Rite_of_Strings|Anthology|All_Your_Life|World_Sinfonia|The_Guitar_Hero|The_Infinite_Desire|Acoustic_Anthology|Tirami_Su|Ritmo_de_la_Noche|The_Collection|Electric_Rendezvous|Casino|Winter_Nights|Vocal_Rendezvous|Revisited|Sunday_in_Boston|Kiss_My_Axe
+what is the album of <e> 's artist	Ritmo_de_la_Noche	Elegant_Gypsy|This_Is_Jazz_31|He_&_Carmen|The_Rite_of_Strings|Anthology|All_Your_Life|World_Sinfonia|The_Guitar_Hero|The_Infinite_Desire|Acoustic_Anthology|Tirami_Su|Ritmo_de_la_Noche|The_Collection|Electric_Rendezvous|Casino|Winter_Nights|Vocal_Rendezvous|Revisited|Sunday_in_Boston|Kiss_My_Axe
+what is the next episode of <e> 's containedby	Breton	Tasmania
+what is the <e> 's profession 's notable types	Nathaniel_P._Banks	Film_character
+what is the <e> 's track list 's artist	Close_as_You_Get	NOE
+what is the <e> 's place of birth 's tracks	Richard_Williams	Toronto
+what is the recording of <e> 's recording	Step_Up	Step_Up
+what is the appears in topic gallery of <e> 's place of birth	Claudia_Gerini	Rome
+what is the works of <e> 's organism type	Success_Express	Black_Beauty|Horse_Anatomy|Sidesaddle|Reining_in
+what is the <e> 's track 's tracks	Primary	2001
+what is the recording of <e> 's song	Amsterdam	Amsterdam
+what is the <e> 's nationality 's teams	Raymond_Radiguet	Strasbourg_IG|A1_Team_France
+what is the recording of <e> 's netflix genres	99	India
+what is the recording of <e> 's recording	Fantasy	Fantasy
+what is the <e> 's containedby 's hud county place	Waipio_Acres	Honolulu|Kailua
+what is the album of <e> 's artist	Habanera	Elegant_Gypsy|This_Is_Jazz_31|He_&_Carmen|The_Rite_of_Strings|Anthology|All_Your_Life|World_Sinfonia|The_Guitar_Hero|The_Infinite_Desire|Acoustic_Anthology|Tirami_Su|Ritmo_de_la_Noche|The_Collection|Electric_Rendezvous|Casino|Winter_Nights|Vocal_Rendezvous|Revisited|Sunday_in_Boston|Kiss_My_Axe
+what is the recording of <e> 's nationality	Maia_Sethna	India
+what is the releases of <e> 's label	Phil_Lanzon	Fanatic|Sketches_of_Spain|Trio_of_Doom|Thrust|Mr._Gone|Head_Hunters|Birds_of_Fire
+what is the works of <e> 's organism type	Mona_de_Momma	Black_Beauty|Horse_Anatomy|Sidesaddle|Reining_in
+what is the <e> 's track list 's notable types	Elliott_Yamin	Consumer_product
+what is the recording of <e> 's genre	Caine_Black_Knife	Fantasy
+what is the <e> 's country 's teams	Small_Change	Strasbourg_IG|A1_Team_France
+what is the place of <e> 's place	Wintersville	Wintersville
+what is the release of <e> 's song	Believe	The_Breakout_Trilogy|Greatest_Hits
+what is the recording of <e> 's releases	Another_Day	Another_Day
+what is the works of <e> 's organism type	Mona_de_Momma	Black_Beauty|Horse_Anatomy|Sidesaddle|Reining_in
+what is the notable types of <e> 's recording	Wake	Consumer_product|Musical_Artist
