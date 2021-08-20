@@ -1,0 +1,2 @@
+*.ckpt filter=lfs diff=lfs merge=lfs -text
+reqa_best.ckpt filter=lfs diff=lfs merge=lfs -text
